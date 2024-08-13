@@ -34,6 +34,7 @@
         android:textColor="#f4b35c"
         android:backgroundTint="#FFFFFF"
         android:padding="16dp"
+        android:textSize="18sp"
         android:layout_margin="16dp"
         android:text="Get Weather" />
 
